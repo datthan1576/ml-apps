@@ -3,7 +3,6 @@ import pandas as pd
 import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
 
-
 """
 https://streamlit.io/components
 Components are third-party modules that extend what’s possible with Streamlit. They couldn't be simpler to use, just a pip-install away.
